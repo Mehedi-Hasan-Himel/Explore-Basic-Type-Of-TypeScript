@@ -28,3 +28,5 @@ const newArray: number[] = arr.map((elem: number):number => elem * elem);
 
 
 // console.log(newArray);
+
+
